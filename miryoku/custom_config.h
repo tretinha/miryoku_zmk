@@ -7,7 +7,7 @@
 &kp TAB,           &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp NUM_1,         &kp NUM_2,         &kp NUM_3,         &kp NUM_4,         \
 &kp LSHFT,         &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             U_MS_L,            U_MS_D,            U_MS_U,            U_MS_R,            \
 &kp ESC,           &kp Z,             &kp X,             &kp C,             &kp V,             &kp B,             &kp LBKT,          &kp COMMA,         &kp DOT,           &kp RBKT,         \
-U_NP,              U_NP,              &kp LCTRL,         &kp SPC,           &kp LALT,          U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
+U_NP,              U_NP,              &kp SPC,           &kp LCTRL,         &kp LSHIFT,        U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
 
 // Direct custom layer access
 #define MIRYOKU_LAYOUTMAPPING_CORNE(\
