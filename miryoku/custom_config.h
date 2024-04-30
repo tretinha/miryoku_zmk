@@ -1,7 +1,6 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#define MIRYOKU_KLUDGE_MOUSEKEYSPR
 #define XXX &none
 
 #define MIRYOKU_LAYER_GAME \
@@ -32,7 +31,7 @@ MIRYOKU_X(MOUSE,  "Mouse") \
 MIRYOKU_X(MEDIA,  "Media") \
 MIRYOKU_X(NUM,    "Num") \
 MIRYOKU_X(SYM,    "Sym") \
-MIRYOKU_X(FUN,    "Fun" \
+MIRYOKU_X(FUN,    "Fun") \
 MIRYOKU_X(GAME,   "GAME")
 
 #define MIRYOKU_LAYERMAPPING_GAME MIRYOKU_MAPPING
